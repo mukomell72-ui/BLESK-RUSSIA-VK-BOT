@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/vk.js": {
+      "maxDuration": 10
+    }
+  }
+}
