@@ -1,0 +1,12 @@
+{
+  "name": "blesk-russia-vk-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "VK Callback API bot for BLESK RUSSIA CRMP project",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
